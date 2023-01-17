@@ -1,0 +1,43 @@
+characters = {
+
+	SOR_VAG_Aleksandr_Vasilevsky = {
+		name = PRC_Aleksandr_Vasilevsky
+		portraits = {
+			civilian = { 
+				large = "gfx/leaders/PRC/Portrait_PRC_Alexander_Vasilevsky.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_ALEKSANDER_VASILEVSKY_DESC"
+			expire = "1999.1.1"
+			ideology = despotism_military_junta_subtype
+			traits = { }
+			id = -1
+		}
+		field_marshal = {
+			traits = { war_hero brilliant_strategist inspirational_leader organizer }
+			skill = 4
+			attack_skill = 3
+			defense_skill = 3
+			planning_skill = 4
+			logistics_skill = 3
+			legacy_id = 3686
+		}
+	}
+
+	SOR_VAG_Aleksandr_Vasilevsky_natsoc = {
+		name = PRC_Aleksandr_Vasilevsky
+		portraits = {
+			civilian = { 
+				large = "gfx/leaders/PRC/Portrait_PRC_Alexander_Vasilevsky.dds"
+			}
+		}
+		country_leader = {
+			desc = "POLITICS_ALEKSANDER_VASILEVSKY_DESC"
+			expire = "1999.1.1"
+			ideology = national_socialism_stratocratic_corporatism_subtype
+			traits = { }
+			id = -1
+		}
+	}
+}
