@@ -1771,7 +1771,7 @@ country_event = { #Pride of the Union - YAGODAGANG
 		set_variable = { 408.nationality = 151 }
 		set_variable = { 809.nationality = 151 }
 		set_variable = { 537.nationality = 151 }
-		set_variable = { 555.nationality = 151 }
+		set_variable = { 536.nationality = 151 }
 		set_variable = { 406.nationality = 151 }
 		set_variable = { 587.nationality = 151 }
 		set_variable = { 402.nationality = 151 }
@@ -1791,7 +1791,7 @@ country_event = { #Pride of the Union - YAGODAGANG
 		add_state_claim = 408
 		add_state_claim = 809
 		add_state_claim = 537
-		add_state_claim = 555
+		add_state_claim = 536
 		add_state_claim = 586
 		add_state_claim = 732
 		add_state_claim = 1467
