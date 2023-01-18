@@ -4202,7 +4202,7 @@ shared_focus = {
 		537 = {
 		set_demilitarized_zone = yes
 		}
-		555 = {
+		536 = {
 		set_demilitarized_zone = yes
 		}
 		}
@@ -4510,8 +4510,8 @@ shared_focus = {
 		hidden_effect = {
 		IRK ={
 		transfer_state = 537
-		transfer_state = 555
-		add_core_of = 555
+		transfer_state = 536
+		add_core_of = 536
 		}
 		}
 	}
